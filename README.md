@@ -29,7 +29,9 @@ This project has been structured across three files:
 We have three endpoints:
 
 /health - returns "ok" if the API is running
+
 /customers - returns a (hard-coded, for the moment) list of Owenwide's customers
+
 /account_balances - returns a (also hard-coded) list of balances for all customers
 
 ## Running
