@@ -22,7 +22,7 @@ This project has been structured across three files:
 
 `api.py` contains the API implementation - this will serve the complete API, making it available in the browser.
 
-`customers_lambda` is our first Lambda implementation for our customers functionality/endpoint.
+`customers_lambda.py` is our first Lambda implementation for our customers functionality/endpoint.
 
 ## The API
 
